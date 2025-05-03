@@ -1,0 +1,31 @@
+# 🥗 Nutrient Calculator
+
+A simple web-based Nutrient Calculator that lets users search for food items and view their nutritional information using the USDA FoodData Central API.
+
+## 🔧 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **JavaScript (Vanilla)**
+- **USDA FoodData Central API**
+
+## 📌 Features
+
+- Search for food items using the USDA API
+- Display nutritional data (calories, protein, fat, carbs, etc.)
+- Responsive design using Bootstrap
+
+## 🚀 How to Use
+
+1. Clone or download the repository.
+2. Open `index.html` in your browser.
+3. Enter a food item in the search bar to get nutrition info.
+
+## 📄 Setup
+
+1. Get a free API key from [USDA FoodData Central](https://fdc.nal.usda.gov/api-key-signup.html).
+2. Replace the `API_KEY` placeholder in your JavaScript code with your actual key.
+
+```javascript
+const API_KEY = "YOUR_API_KEY_HERE";
