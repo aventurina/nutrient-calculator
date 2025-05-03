@@ -13,14 +13,14 @@ A simple web-based Nutrient Calculator that lets users search for food items and
 ## 📌 Features
 
 - Search for food items using the USDA API
-- Display nutritional data (calories, protein, fat, carbs, etc.)
+- Display nutritional data (calories, protein, fat & carbs)
 - Responsive design using Bootstrap
 
 ## 🚀 How to Use
 
 1. Clone or download the repository.
-2. Open `index.html` in your browser.
-3. Enter a food item in the search bar to get nutrition info.
+2. Open `nutrient-calculator.html` in your browser.
+3. Enter a food item and quantity in grams in the search section of the app to get the nutrition info.
 
 ## 📄 Setup
 
