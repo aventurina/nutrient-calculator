@@ -28,7 +28,7 @@ A web-based Nutrient Calculator that lets users search for food items and view t
 ## 📄 Setup
 
 1. Get a free API key from [USDA FoodData Central](https://fdc.nal.usda.gov/api-key-signup.html).
-2. Replace the `API_KEY` placeholder in your JavaScript code with your actual key.
+2. Replace the `USDA_API_KEY` placeholder in your JavaScript code with your actual key.
 3. For the THEMEALDB API, the developer test key of 1 is used for the API calls.
 
 ```javascript
