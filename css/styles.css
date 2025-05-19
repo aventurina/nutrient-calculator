@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.calculator {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.meal-card {
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.meal-card img {
+    max-width: 100%;
+    height: auto;
+}

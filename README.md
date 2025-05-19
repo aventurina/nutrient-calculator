@@ -1,6 +1,6 @@
 # 🥗 Nutrient Calculator
 
-A simple web-based Nutrient Calculator that lets users search for food items and view their nutritional information using the USDA FoodData Central API.
+A web-based Nutrient Calculator that lets users search for food items and view their nutritional information using the USDA FoodData Central API. It also fetches meal suggestions based on the food item entered using THEMEALDB API.
 
 <img width="650" alt="nutrient-calculator-ui" src="https://github.com/user-attachments/assets/c876025d-288c-42d7-af42-023f4323a85b" />
 
@@ -11,6 +11,7 @@ A simple web-based Nutrient Calculator that lets users search for food items and
 - **Bootstrap 5**
 - **JavaScript (Vanilla)**
 - **USDA FoodData Central API**
+- **THEMEALDB API**
 
 ## 📌 Features
 
@@ -28,6 +29,7 @@ A simple web-based Nutrient Calculator that lets users search for food items and
 
 1. Get a free API key from [USDA FoodData Central](https://fdc.nal.usda.gov/api-key-signup.html).
 2. Replace the `API_KEY` placeholder in your JavaScript code with your actual key.
+3. For the THEMEALDB API, the developer test key of 1 is used for the API calls.
 
 ```javascript
 const API_KEY = "YOUR_API_KEY_HERE";
