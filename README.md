@@ -32,4 +32,4 @@ A web-based Nutrient Calculator that lets users search for food items and view t
 3. For the THEMEALDB API, the developer test key of 1 is used for the API calls.
 
 ```javascript
-const API_KEY = "YOUR_API_KEY_HERE";
+const USDA_API_KEY = "YOUR_API_KEY_HERE";
