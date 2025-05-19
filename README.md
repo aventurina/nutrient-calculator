@@ -2,7 +2,7 @@
 
 A web-based Nutrient Calculator that lets users search for food items and view their nutritional information using the USDA FoodData Central API. It also fetches meal suggestions based on the food item entered using THEMEALDB API.
 
-<img width="650" alt="nutrient-calculator-ui" src="https://github.com/user-attachments/assets/c876025d-288c-42d7-af42-023f4323a85b" />
+<img width="650" alt="nutrient-calculator-ui" src="https://github.com/user-attachments/assets/d5e3c0d2-9899-4c14-beed-a72d417b2766" />
 
 ## 🔧 Technologies Used
 
